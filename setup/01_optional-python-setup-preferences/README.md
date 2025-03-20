@@ -103,7 +103,7 @@ I highly recommend installing Python packages in a separate virtual environment 
 **1. Install uv**
 
 ```bash
-pip install uv
+brew install uv
 ```
 
 <br>
